@@ -1,0 +1,28 @@
+# ═══════════════════════════════════════════════════
+# AI Resume Shortlister - Dependencies
+# ═══════════════════════════════════════════════════
+
+# ── PDF Processing ────────────────────────────────
+PyMuPDF>=1.24.0
+
+# ── AI / Embeddings ──────────────────────────────
+sentence-transformers>=3.0.0
+torch>=2.0.0
+
+# ── Vector Search ────────────────────────────────
+faiss-cpu>=1.8.0
+numpy>=1.26.0
+
+# ── API Backend ──────────────────────────────────
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+python-multipart>=0.0.9
+
+# ── UI Frontend ──────────────────────────────────
+streamlit>=1.38.0
+
+# ── HTTP Client (Streamlit → FastAPI) ────────────
+requests>=2.32.0
+
+# ── Data Processing ─────────────────────────────
+pandas>=2.2.0
