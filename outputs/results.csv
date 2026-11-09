@@ -1,2 +1,4 @@
 rank,name,email,phone,skills,final_score,similarity_score,ats_score,filename
-1,MANNALA ABIRAM,mannalaabiram2005@gmail.com,+91 9110729231,"Communication, Data Analysis, Git, GitHub, Go, Python, R, SQL",71.0,68.3,75.0,Mannala_Abiram (3).pdf
+1,MANNALA ABIRAM,mannalaabiram2005@gmail.com,+91 9110729231,"Data Analysis, FastAPI, Flask, Git, GitHub, Java, JavaScript, Machine Learning, NLP, NumPy, Pandas, PostgreSQL, Python, R, SQL, Scala, Scikit-learn",70.9,75.4,64.0,Abiram_Mannala.pdf
+2,MANNALA ABIRAM,mannalaabiram2005@gmail.com,+91 9110729231,"CSS, Data Analysis, FastAPI, Git, GitHub, Keras, Machine Learning, NLP, NumPy, OpenCV, Pandas, PostgreSQL, Python, R, React, SQL, SQLite, Scala, Scikit-learn, Streamlit, TensorFlow, Transformers",62.1,63.5,60.0,RESUME_ABI (1).pdf
+3,SHAIK QAHNIYA ANJUM,,+91 9491833093,"CSS, Data Analysis, FastAPI, Git, GitHub, Go, HTML, Java, JavaScript, Machine Learning, MySQL, NLP, NumPy, Pandas, PostgreSQL, Problem Solving, Python, R, SQL, Scala",53.8,47.7,63.0,resume_anjum.pdf
