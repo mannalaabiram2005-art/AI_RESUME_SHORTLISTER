@@ -506,39 +506,4 @@ Install pytest (`pip install pytest`) and run `pytest`. Then write similar tests
 *Found something unclear in this guide? Open an issue or pull request. Improving documentation is a valuable contribution.*
 
 
-## 13. Glossary
-
-| Term | Definition |
-|------|------------|
-| **API / endpoint** | A set of rules and specific URLs through which one program asks another to do work |
-| **ASGI** | The standard interface between async Python web apps (FastAPI) and servers (Uvicorn) |
-| **ATS** | Applicant Tracking System; here, a simple rubric-based resume score |
-| **Batch processing** | Handling many inputs in one call, usually faster than a loop |
-| **Cosine similarity** | A measure of how closely two vectors point in the same direction |
-| **CORS** | Browser security rule governing requests across origins; the backend enables it for the UI |
-| **CSV** | Comma-separated values; a plain-text table format that opens in Excel |
-| **Embedding** | A fixed-length vector representing the meaning of a piece of text |
-| **FAISS** | Meta's library for fast vector similarity search |
-| **HTTP** | The protocol browsers and programs use to exchange requests and responses |
-| **JSON** | A text format for structured data, such as `{"name": "Alice", "score": 64}` |
-| **L2 normalization** | Scaling a vector to length 1; makes dot product equal cosine similarity |
-| **Multipart form data** | The web standard for uploading files |
-| **Package** | A folder of Python modules made importable by `__init__.py` |
-| **Pre-trained model** | A neural network already trained by others and reused without retraining |
-| **Regex** | A pattern language for searching text |
-| **Singleton** | A pattern ensuring only one instance exists (the embedding model is loaded once) |
-| **Transformer** | The neural-network architecture behind modern language models |
-| **Vector** | An ordered list of numbers; here, 384 of them |
-
----
-
-## 14. Where to go next
-
-- Work through the [exercises](#11-exercises), starting with 1, 2, and 5.
-- Read the [sentence-transformers documentation](https://www.sbert.net/) to learn how embedding models are trained and chosen.
-- Read the [FAISS wiki](https://github.com/facebookresearch/faiss/wiki) to see index types beyond `IndexFlatIP` for much larger collections.
-- Skim the [FastAPI tutorial](https://fastapi.tiangolo.com/tutorial/) to understand dependency injection, validation, and background tasks.
-- Check the [roadmap in the README](README.md#roadmap) for ideas to contribute.
-
-*Found something unclear in this guide? Open an issue or pull request. Improving documentation is a valuable contribution.*
 
