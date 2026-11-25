@@ -370,3 +370,24 @@ Released under the [MIT License](LICENSE). Add a `LICENSE` file to the repositor
 - [FastAPI documentation](https://fastapi.tiangolo.com/)
 - [Streamlit documentation](https://docs.streamlit.io/)
 
+## Contributing
+
+Contributions are welcome.
+
+1. Fork the repository and create a branch: `git checkout -b feat/short-description`
+2. Keep changes focused; each pipeline stage should stay in its own package.
+3. Add or update tests for behavior you change (see roadmap).
+4. Use clear commit messages, preferably [Conventional Commits](https://www.conventionalcommits.org/) (`feat:`, `fix:`, `docs:`).
+5. Open a pull request describing the problem, the approach, and how you verified it.
+
+## License
+
+Released under the [MIT License](LICENSE). Add a `LICENSE` file to the repository root if one is not already present.
+
+## Further reading
+
+- [BEGINNER_GUIDE.md](BEGINNER_GUIDE.md) — concepts, a full walkthrough of every module, exercises, and glossary
+- [sentence-transformers documentation](https://www.sbert.net/)
+- [FAISS wiki](https://github.com/facebookresearch/faiss/wiki)
+- [FastAPI documentation](https://fastapi.tiangolo.com/)
+- [Streamlit documentation](https://docs.streamlit.io/)
